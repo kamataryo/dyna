@@ -1,0 +1,16 @@
+{
+  "name": "dyna",
+  "version": "1.0.0",
+  "description": "A simple ORM for DynamoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kamataryo (https://github.com/kamataryo)",
+  "license": "MIT",
+  "devDependencies": {
+    "@aws-sdk/client-dynamodb": "^3.468.0",
+    "@aws-sdk/lib-dynamodb": "^3.468.0"
+  }
+}
