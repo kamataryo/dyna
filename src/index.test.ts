@@ -1,4 +1,4 @@
-import { Dyna, type Model } from './index'
+import { Dyna, Model } from './index'
 
 const tableName = 'test'
 const model: Model = {
